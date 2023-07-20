@@ -32,4 +32,8 @@ By printing "y" the programm will open a new window and show you the I, Dp and D
 data. You can decide to save them by pressing on the floppy disk icon or to close the window and pass directly
 to your next graph. After that the 3rd window the program will convert the .cla file into a .xlsx file
 
-by question please write me at: Adriano.Sanna@anatomie.med.uni-giessen.de
+I provide an example of .cla file  (example.cla), recorded during my experiments, that you can use to test my program.
+
+by question or if you want to express a feedback, please write me at: Adriano.Sanna@anatomie.med.uni-giessen.de
+
+Have a good day!
